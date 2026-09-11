@@ -19,3 +19,5 @@ A Telegram bot that lets users set job search preferences (city, job title, keyw
 | I     | Launch                                 | ⬜ Not started |
 
 ---
+
+## Phases
